@@ -1,0 +1,6 @@
+{
+  "name": "3D Sketch Studio",
+  "description": "اپلیکیشن حرفه‌ای طراحی و اسکیس سه‌بعدی در فضا با قابلیت لایه‌بندی، تغییر زوایای دید و بوم‌های فضایی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
